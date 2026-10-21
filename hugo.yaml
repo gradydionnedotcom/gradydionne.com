@@ -36,3 +36,32 @@ params:
       url: "https://www.instagram.com/grady.dionne/"
     - name: "email"
       url: "mailto:gradydionnee@gmail.com"
+
+  homeSections:
+    - title: Work Experience
+      category: Work Experience
+    - title: Education
+      category: Education
+    - title: Listenings
+      type: gallery
+      images:
+            - src: album_covers/Clap-Your-Hands-Say-Yeah.jpg
+              alt: Clap Your Hands Say Yeah
+              description: Clap Your Hands Say Yeah - Self Title
+            - src: album_covers/forever howlong.jpg
+              alt: Forever Howlong - BC,NR
+              description: Forever Howlong - BC,NR
+            - src: album_covers/Geek The Girl.jpg
+              alt: Geek The Girl
+              description: Geek The Girl - Lisa Germano
+            - src: "album_covers/Invitation to her's.jpg"
+              alt: Invitation to Her's
+              description: Invitation to Her's - Her's
+            - src: album_covers/judee sill.jpg
+              alt: Judee sill
+              description: Judee Sill - Self Title
+            - src: album_covers/Love is overtaking me.jpg
+              alt: Arthur Russell
+              description: Arthur Russell - Love is Overtaking Me
+            - src: album_covers/robberrobber.jpg
+            - src: album_covers/speaking in tongues.jpg

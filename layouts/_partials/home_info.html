@@ -1,0 +1,62 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+  <header class="entry-header">
+    <h1>{{ .Title | markdownify }}</h1>
+  </header>
+  <div class="entry-content md-content">
+    {{ $opts := dict "display" "block" }}
+    {{ .Content | $.Page.RenderString $opts }}
+  </div>
+  <footer class="entry-footer">
+    {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+  </footer>
+</article>
+{{- end }}
+
+{{- range site.Params.homeSections }}
+  {{- $section := . }}
+  {{- $category := index $section "category" }}
+  {{- $posts := slice }}
+
+  {{- range site.RegularPages }}
+    {{- if in (.Params.categories | default (slice)) $category }}
+      {{- $posts = $posts | append . }}
+    {{- end }}
+  {{- end }}
+
+  {{- if eq (index $section "type") "gallery" }}
+    <header class="page-header">
+      <h2>{{ $section.title }}</h2>
+    </header>
+    <div class="home-gallery" role="region" aria-label="{{ $section.title }}" tabindex="0">
+      {{- range index $section "images" }}
+        {{- $image := . }}
+        <figure class="home-gallery-item">
+          <img
+            src="{{ index $image "src" | relURL }}"
+            alt="{{ index $image "alt" }}"
+            loading="lazy"
+            title="{{ index $image "description" }}"
+          >
+        </figure>
+      {{- end }}
+    </div>
+  {{- else }}
+    {{- with $posts }}
+      <header class="page-header">
+        <h2>{{ $section.title }}</h2>
+      </header>
+      {{- range . }}
+        <article class="post-entry">
+          <header class="entry-header">
+            <h2>{{ .Title }}</h2>
+          </header>
+          <div class="entry-content">
+            <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+          </div>
+          <a class="entry-link" aria-label="Post: {{ .Title }}" href="{{ .RelPermalink }}"></a>
+        </article>
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}

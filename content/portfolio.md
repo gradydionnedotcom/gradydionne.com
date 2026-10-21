@@ -26,7 +26,7 @@ Midterm
 Interlude
 {{<audio src="/Mosaic/Interlude Master Bnce.mp3">}}
 
-Entwide
+Entwine
 {{<audio src="/Mosaic/Entwined master bnce.mp3">}}
 
 Cottonwood Leaf
