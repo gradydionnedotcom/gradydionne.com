@@ -6,4 +6,4 @@ title = 'Relevant Work'
 
 ## Jordan Kahn Music Company    May 2025 - present
 
-## Castle Rock Music     June 2025 - Present
+
