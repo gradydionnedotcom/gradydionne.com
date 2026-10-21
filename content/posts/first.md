@@ -6,4 +6,5 @@ title = 'Relevant Work'
 
 ## Jordan Kahn Music Company    May 2025 - present
 
+Audio engineer
 

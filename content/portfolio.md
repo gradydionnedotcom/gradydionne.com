@@ -15,31 +15,31 @@ summary: "portfiolio"
 This was a full studio album I recorded while in school at the University of Denver. Written and arranged by saxophonist Ryan Black and performed by his Quintet, featuring a variety of contemporary jazz songs. You can listen to it on streaming platforms *here*, or right below
 
 Silent Victories
-{{<audio src="/Mosaic/54 Master Bnce 2.wav">}}
+{{<audio src="/Mosaic/54 Master Bnce 2.mp3">}}
 
 Suspended Moments
 {{<audio src="/Mosaic/Suspended Moments Master Bnce.mp3">}}
 
 Midterm
-{{<audio src="/Mosaic/Midterm Master Bnce.wav">}}
+{{<audio src="/Mosaic/Midterm Master Bnce.mp3">}}
 
 Interlude
-{{<audio src="/Mosaic/Interlude Master Bnce.wav">}}
+{{<audio src="/Mosaic/Interlude Master Bnce.mp3">}}
 
 Entwide
-{{<audio src="/Mosaic/Entwined master bnce.wav">}}
+{{<audio src="/Mosaic/Entwined master bnce.mp3">}}
 
 Cottonwood Leaf
-{{<audio src="/Mosaic/Carter Feature Bnc 2.wav">}}
+{{<audio src="/Mosaic/Carter Feature Bnc 2.mp3">}}
 
 Shatter
-{{<audio src="/Mosaic/Phrygian Master bnce.wav">}}
+{{<audio src="/Mosaic/Phrygian Master bnce.mp3">}}
 
 Folk Song
-{{<audio src="/Mosaic/Folk Song Master bnce.wav">}}
+{{<audio src="/Mosaic/Folk Song Master bnce.mp3">}}
 
 Sonder
-{{<audio src="/Mosaic/Sonder Master bnce.wav">}}
+{{<audio src="/Mosaic/Sonder Master bnce.mp3">}}
 
 ---
 ---
