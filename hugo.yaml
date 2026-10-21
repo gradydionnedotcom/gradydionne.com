@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://gradydionnedotcom.github.io/gradydionne.com/
 locale: en-us
 title: Home
 theme: PaperMod
@@ -36,4 +36,3 @@ params:
       url: "https://www.instagram.com/grady.dionne/"
     - name: "email"
       url: "mailto:gradydionnee@gmail.com"
-
