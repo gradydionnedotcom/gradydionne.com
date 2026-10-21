@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Sep 2026 21:32:40 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relevant Work</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Wed, 30 Sep 2026 21:32:40 -0600</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h2 id=&#34;jordan-kahn-music-company----may-2025---present&#34;&gt;Jordan Kahn Music Company    May 2025 - present&lt;/h2&gt;
+&lt;h2 id=&#34;castle-rock-music-----june-2025---present&#34;&gt;Castle Rock Music     June 2025 - Present&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>about</description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>portfiolio</description>
+    </item>
+  </channel>
+</rss>

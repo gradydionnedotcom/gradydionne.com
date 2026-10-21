@@ -1,0 +1,39 @@
+baseURL: https://example.org/
+locale: en-us
+title: Home
+theme: PaperMod
+
+menu:
+    main:
+      - identifier: About
+        name: About
+        url: /about/
+        weight: 10
+      - identifier: Portfolio
+        name: Portfolio
+        url: /portfolio/
+        weight: 20
+      - identifier: Contact
+        name: Contact
+        url: /contact/
+        weight: 30
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: true
+
+  homeInfoParams:
+    Title: Grady Dionne
+    Content: I'm Grady, an audio engineer, musician, and educator currently based in Denver Colorado. I am available for live sound and live recordings, guitar lessons, and audio editing, mixing, and mastering work.
+      You can reach out to me with any inquiries below, and find me on social media as well
+
+    description: 
+
+  socialIcons: # optional
+    - name: "youtube"
+      url: "https://www.youtube.com/@gradydionne"
+    - name: "instagram"
+      url: "https://www.instagram.com/grady.dionne/"
+    - name: "email"
+      url: "mailto:gradydionnee@gmail.com"
+
