@@ -38,7 +38,7 @@ params:
       url: "mailto:gradydionnee@gmail.com"
 
   homeSections:
-    - title: Work Experience
+    - title: Experience
       category: Work Experience
     - title: Education
       category: Education
@@ -64,4 +64,8 @@ params:
               alt: Arthur Russell
               description: Arthur Russell - Love is Overtaking Me
             - src: album_covers/robberrobber.jpg
+              alt: Robber Robber
+              description: Robber Robber - Two Wheels Move The Soul
             - src: album_covers/speaking in tongues.jpg
+              alt: Talking Heads
+              description: Talking Heads - Speaking In Tongues

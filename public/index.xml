@@ -6,30 +6,22 @@
     <description>Recent content on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:31:57 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/gradydionne.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jordan Kahn Music Company - Audio Engineer</title>
-      <link>http://localhost:1313/gradydionne.com/posts/first/</link>
-      <pubDate>Wed, 30 Sep 2026 21:32:40 -0600</pubDate>
-      <guid>http://localhost:1313/gradydionne.com/posts/first/</guid>
-      <description>&lt;h2 id=&#34;jordan-kahn-music-company----may-2025---present&#34;&gt;Jordan Kahn Music Company    May 2025 - present&lt;/h2&gt;
-&lt;p&gt;Audio engineer&lt;/p&gt;</description>
+      <link>http://localhost:1313/gradydionne.com/posts/jkmc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gradydionne.com/posts/jkmc/</guid>
+      <description>&lt;h3 id=&#34;june-2025---present&#34;&gt;June 2025 - Present&lt;/h3&gt;
+&lt;p&gt;Working For Jordan Kahn Music Company,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Castle Rock Music   -   Guitar Teacher</title>
-      <link>http://localhost:1313/gradydionne.com/posts/second/</link>
-      <pubDate>Wed, 21 Oct 2026 10:31:57 -0600</pubDate>
-      <guid>http://localhost:1313/gradydionne.com/posts/second/</guid>
-      <description>&lt;h2 id=&#34;castle-rock-music-----june-2025---present&#34;&gt;Castle Rock Music     June 2025 - Present&lt;/h2&gt;
+      <link>http://localhost:1313/gradydionne.com/posts/crm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gradydionne.com/posts/crm/</guid>
+      <description>&lt;h3 id=&#34;june-2025---present&#34;&gt;June 2025 - Present&lt;/h3&gt;
 &lt;p&gt;Guitar lessons&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>University of Denver</title>
-      <link>http://localhost:1313/gradydionne.com/posts/third/</link>
-      <pubDate>Wed, 21 Oct 2026 10:31:57 -0600</pubDate>
-      <guid>http://localhost:1313/gradydionne.com/posts/third/</guid>
-      <description></description>
     </item>
     <item>
       <title>About</title>
@@ -44,6 +36,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/gradydionne.com/portfolio/</guid>
       <description>portfiolio</description>
+    </item>
+    <item>
+      <title>University of Denver - Bachelor of Music</title>
+      <link>http://localhost:1313/gradydionne.com/posts/edu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gradydionne.com/posts/edu/</guid>
+      <description>&lt;h3 id=&#34;september-2022---june-2026&#34;&gt;September 2022 - June 2026&lt;/h3&gt;</description>
     </item>
   </channel>
 </rss>
