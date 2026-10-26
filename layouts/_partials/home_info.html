@@ -54,10 +54,15 @@
         <article class="post-entry">
           <header class="entry-header">
             <h2>{{ .Title }}</h2>
+            {{- with .Params.subtitle }}
+              <h3>{{ . }}</h3>
+            {{- end }}
           </header>
-          <div class="entry-content">
-            <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
-          </div>
+          {{- if not .Params.hideHomeSummary }}
+            <div class="entry-content">
+              <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+            </div>
+          {{- end }}
           <a class="entry-link" aria-label="Post: {{ .Title }}" href="{{ .RelPermalink }}"></a>
         </article>
       {{- end }}
