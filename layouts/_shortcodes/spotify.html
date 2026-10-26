@@ -1,0 +1,17 @@
+{{- $src := .Get "src" -}}
+{{- if strings.HasPrefix $src "https://open.spotify.com/playlist/" -}}
+  {{- $src = replace $src "https://open.spotify.com/playlist/" "https://open.spotify.com/embed/playlist/" 1 -}}
+{{- end -}}
+{{- if not (strings.HasPrefix $src "https://open.spotify.com/embed/playlist/") -}}
+  {{- errorf "spotify shortcode requires a Spotify playlist URL or embed URL" -}}
+{{- else -}}
+<iframe
+  title="Spotify playlist"
+  src="{{ $src }}"
+  width="100%"
+  height="{{ .Get "height" | default "450" }}"
+  frameborder="0"
+  allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+  loading="lazy">
+</iframe>
+{{- end -}}

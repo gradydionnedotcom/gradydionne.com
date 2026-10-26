@@ -12,7 +12,7 @@ summary: "portfiolio"
 ---
 #### Mosaic - Ryan Black
 
-This was a full studio album I recorded while in school at the University of Denver. Written and arranged by saxophonist Ryan Black and performed by his Quintet, featuring a variety of contemporary jazz songs. You can listen to it on streaming platforms *here*, or right below
+This was a full studio album I recorded while in school at the University of Denver. Written and arranged by saxophonist Ryan Black and performed by his Quintet, featuring a variety of contemporary jazz songs. You can listen to it on streaming platforms [here](https://open.spotify.com/album/5zYiMgW1kwTwom8KEMGImx?si=LZLPVITYR4G_0DcfNWuOXw), or right below
 
 Silent Victories
 {{<audio src="/Mosaic/54 Master Bnce 2.mp3">}}
@@ -46,26 +46,47 @@ Sonder
 
 ### Live Recordings
 
+
 ---
 
 #### The Current State of New Hampshire
 
-In 2024, I did a series of live recording sessions for bands from my home state of New Hampshire. The full project is available on youtube, linked *here*, and here are some sample recordings from the project
+In 2024, I did a series of live recording sessions for bands from my home state of New Hampshire. The full project is available on youtube, linked [here](https://www.youtube.com/playlist?list=PLtdF8yJh1uyvBGOvGteTUfrmUmqlyPe_I), and here are some sample recordings from the project
+
+Maddoc Johnson
+{{< youtube 3mec9VZnK_I >}}
+
+Five Feet
+{{< youtube 2iQsseHnkJQ >}}
+
+doug. 
+{{< youtube vWmWkzH1nKk >}}
 
 ---
 
 #### Tiny Dorm Series
 
-As a student at the University of Denver, I was the audio technical director at the campus radio station where we recorded a similar set of videos for bands at the University. I recorded, mixed, and mastered a majority of these videos. A link to the full project series can be found here
+As a student at the University of Denver, I was the audio technical director at the campus radio station where we recorded a similar set of videos for bands at the University. I recorded, mixed, and mastered a majority of these videos. A link to the full project series can be found [here](https://www.youtube.com/@KXDUradio/playlists). Here are the projects I was involved in:
 
----
+Exhaler, playing guitar (right), recording, and mixing
+{{< youtube TGFOhJsLvXo >}}
 
-#### Additional Projects
+Ava Weiss, recording and mixing
+{{< youtube SMvHBIqU3nE >}}
 
----
+Seth Wells, recording and mixing
+{{< youtube VzA3d-4wcmc >}}
+
+Bella Kraus, recording and mixing
+{{< youtube vDXu9Bw6iqQ >}}
+
 ---
 
 ### Guitar Playing
 
+---
+
+{{< apple-music src="https://embed.music.apple.com/us/playlist/gradys-guitar-playing/pl.u-pMylDXjTG08631" >}}
 
 
+{{< spotify src ="https://open.spotify.com/playlist/2fZQDJSx36v2SmEXwfA63W?si=e717e3e3a49848f5" >}}

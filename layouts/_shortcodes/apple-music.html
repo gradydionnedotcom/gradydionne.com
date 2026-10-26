@@ -1,0 +1,14 @@
+{{- $src := .Get "src" -}}
+{{- if not (strings.HasPrefix $src "https://embed.music.apple.com/") -}}
+  {{- errorf "apple-music shortcode requires an Apple Music embed URL" -}}
+{{- else -}}
+<iframe
+  title="Apple Music playlist"
+  src="{{ $src }}"
+  width="100%"
+  height="{{ .Get "height" | default "450" }}"
+  frameborder="0"
+  allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+  loading="lazy">
+</iframe>
+{{- end -}}
