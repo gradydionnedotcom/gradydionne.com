@@ -25,7 +25,7 @@ h6 {
 
 @font-face {
   font-family: "Yodnam";
-  src: url("/gradydionne.com/fonts/yodnamtrialregular-eaja4.otf") format("opentype");
+  src: url("/fonts/yodnamtrialregular-eaja4.otf") format("opentype");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -33,7 +33,7 @@ h6 {
 
 @font-face {
     font-family: "Poppins";
-    src: url("/gradydionne.com/fonts/Poppins/Poppins-Thin.ttf") format("truetype");
+    src: url("/fonts/Poppins/Poppins-Thin.ttf") format("truetype");
     font-style: normal;
     font-weight: 100;
     font-display: swap;
@@ -41,7 +41,7 @@ h6 {
 
 @font-face {
     font-family: "Poppins";
-    src: url("/gradydionne.com/fonts/Poppins/Poppins-ExtraLight.ttf") format("truetype");
+    src: url("/fonts/Poppins/Poppins-ExtraLight.ttf") format("truetype");
     font-style: normal;
     font-weight: 200;
     font-display: swap;
@@ -49,7 +49,7 @@ h6 {
 
 @font-face {
     font-family: "Poppins";
-    src: url("/gradydionne.com/fonts/Poppins/Poppins-Light.ttf") format("truetype");
+    src: url("/fonts/Poppins/Poppins-Light.ttf") format("truetype");
     font-style: normal;
     font-weight: 300;
     font-display: swap;
@@ -57,7 +57,7 @@ h6 {
 
 @font-face {
     font-family: "Poppins";
-    src: url("/gradydionne.com/fonts/Poppins/Poppins-Regular.ttf") format("truetype");
+    src: url("/fonts/Poppins/Poppins-Regular.ttf") format("truetype");
     font-style: normal;
     font-weight: 400;
     font-display: swap;
@@ -65,7 +65,7 @@ h6 {
 
 @font-face {
     font-family: "Poppins";
-    src: url("/gradydionne.com/fonts/Poppins/Poppins-Medium.ttf") format("truetype");
+    src: url("/fonts/Poppins/Poppins-Medium.ttf") format("truetype");
     font-style: normal;
     font-weight: 500;
     font-display: swap;
@@ -73,7 +73,7 @@ h6 {
 
 @font-face {
     font-family: "Poppins";
-    src: url("/gradydionne.com/fonts/Poppins/Poppins-SemiBold.ttf") format("truetype");
+    src: url("/fonts/Poppins/Poppins-SemiBold.ttf") format("truetype");
     font-style: normal;
     font-weight: 600;
     font-display: swap;
@@ -81,7 +81,7 @@ h6 {
 
 @font-face {
     font-family: "Poppins";
-    src: url("/gradydionne.com/fonts/Poppins/Poppins-Bold.ttf") format("truetype");
+    src: url("/fonts/Poppins/Poppins-Bold.ttf") format("truetype");
     font-style: normal;
     font-weight: 700;
     font-display: swap;
@@ -89,7 +89,7 @@ h6 {
 
 @font-face {
     font-family: "Poppins";
-    src: url("/gradydionne.com/fonts/Poppins/Poppins-ExtraBold.ttf") format("truetype");
+    src: url("/fonts/Poppins/Poppins-ExtraBold.ttf") format("truetype");
     font-style: normal;
     font-weight: 800;
     font-display: swap;
@@ -97,7 +97,7 @@ h6 {
 
 @font-face {
     font-family: "Poppins";
-    src: url("/gradydionne.com/fonts/Poppins/Poppins-Black.ttf") format("truetype");
+    src: url("/fonts/Poppins/Poppins-Black.ttf") format("truetype");
     font-style: normal;
     font-weight: 900;
     font-display: swap;
@@ -105,7 +105,7 @@ h6 {
 
 @font-face {
     font-family: "Poppins";
-    src: url("/gradydionne.com/fonts/Poppins/Poppins-Italic.ttf") format("truetype");
+    src: url("/fonts/Poppins/Poppins-Italic.ttf") format("truetype");
     font-style: italic;
     font-weight: 400;
     font-display: swap;
