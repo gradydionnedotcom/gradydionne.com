@@ -1,7 +1,10 @@
 {{- with site.Params.homeInfoParams }}
 <article class="first-entry home-info">
   <header class="entry-header">
-    <h1>{{ .Title | markdownify }}</h1>
+    <h1>
+      {{ .Title | markdownify }}
+      <img class="home-info-logo" src="{{ site.Params.logo | relURL }}" alt="">
+    </h1>
   </header>
   <div class="entry-content md-content">
     {{ $opts := dict "display" "block" }}

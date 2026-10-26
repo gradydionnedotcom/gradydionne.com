@@ -21,6 +21,8 @@ menu:
 params:
   defaultTheme: dark
   disableThemeToggle: true
+  logo: guitar_drawing.png
+  hideFooter: true
 
   homeInfoParams:
     Title: Grady Dionne
