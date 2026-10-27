@@ -1,0 +1,36 @@
+.contact-form {
+    display: grid;
+    gap: 1rem;
+    max-width: 40rem;
+}
+
+.contact-form-field {
+    display: grid;
+    gap: 0.35rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 0.65rem 0.75rem;
+    color: var(--primary);
+    background: var(--theme);
+    border: 1px solid var(--tertiary);
+    border-radius: var(--radius);
+}
+
+.contact-form textarea {
+    resize: vertical;
+}
+
+.contact-form button {
+    justify-self: start;
+    padding: 0.5rem 1rem;
+    color: var(--theme);
+    background: var(--primary);
+    border-radius: var(--radius);
+}
+
+.contact-form-attribution {
+    font-size: 0.8rem;
+}

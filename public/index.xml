@@ -49,5 +49,28 @@
       <guid>http://localhost:1313/gradydionne.com/posts/edu/</guid>
       <description></description>
     </item>
+    <item>
+      <title>You can contact me here!</title>
+      <link>http://localhost:1313/gradydionne.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gradydionne.com/contact/</guid>
+      <description>&lt;p&gt;Any inquiries, questions, stories, jokes, or offers&lt;/p&gt;
+&lt;form class=&#34;contact-form&#34; method=&#34;post&#34; action=&#34;https://forms.un-static.com/forms/b6e85cd04d594ab89ec0b5f6c607b4829abbf9ef&#34;&gt;
+  &lt;div class=&#34;contact-form-field&#34;&gt;
+    &lt;label for=&#34;contact-name&#34;&gt;Name&lt;/label&gt;
+    &lt;input id=&#34;contact-name&#34; name=&#34;name&#34; type=&#34;text&#34; autocomplete=&#34;name&#34; required&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;contact-form-field&#34;&gt;
+    &lt;label for=&#34;contact-email&#34;&gt;E-mail address&lt;/label&gt;
+    &lt;input id=&#34;contact-email&#34; name=&#34;email&#34; type=&#34;email&#34; autocomplete=&#34;email&#34; required&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;contact-form-field&#34;&gt;
+    &lt;label for=&#34;contact-message&#34;&gt;Message&lt;/label&gt;
+    &lt;textarea id=&#34;contact-message&#34; name=&#34;message&#34; rows=&#34;8&#34; required&gt;&lt;/textarea&gt;
+  &lt;/div&gt;
+  &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;
+  &lt;p class=&#34;contact-form-attribution&#34;&gt;&lt;small&gt;(Powered by &lt;a rel=&#34;nofollow&#34; href=&#34;https://un-static.com&#34;&gt;Un-static Forms&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;
+&lt;/form&gt;</description>
+    </item>
   </channel>
 </rss>
