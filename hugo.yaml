@@ -29,8 +29,6 @@ params:
     Content: I'm Grady, an audio engineer, musician, and educator currently based in Denver Colorado. I am available for live sound and live recordings, guitar lessons, and audio editing, mixing, and mastering work.
       You can reach out to me with any inquiries below, and find me on social media as well
 
-    description: 
-
   socialIcons: # optional
     - name: "youtube"
       url: "https://www.youtube.com/@gradydionne"
@@ -38,6 +36,8 @@ params:
       url: "https://www.instagram.com/grady.dionne/"
     - name: "email"
       url: "mailto:gradydionnee@gmail.com"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/grady-dionne-100b17274/"
 
   homeSections:
     - title: Experience

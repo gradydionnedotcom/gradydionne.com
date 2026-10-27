@@ -20,6 +20,7 @@
 
 .pagination {
     display: flex;
+    padding: 10
 }
 
 .pagination a {
@@ -28,7 +29,7 @@
     line-height: 36px;
     background: var(--primary);
     border-radius: calc(36px / 2);
-    padding:0;
+    padding:5;
     
 }
 
