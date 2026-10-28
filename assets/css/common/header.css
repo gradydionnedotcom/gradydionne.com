@@ -2,9 +2,9 @@
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
-    margin-top: 3%;
-    margin-left: 22%;
-    margin-right: 22%;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
     margin-bottom: 0%;
     line-height: var(--header-height);
     padding: 0 var(--gap);
@@ -14,7 +14,7 @@
 }
 
 .header-nav a {
-    display: block;
+    display: flex;
 }
 
 .logo,
@@ -24,7 +24,7 @@
 
 .logo {
     align-items: center;
-    column-gap: 0.55rem;
+    column-gap: 0rem;
     flex-wrap: wrap;
 }
 

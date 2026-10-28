@@ -32,7 +32,7 @@
 }
 
 .list {
-    background: var(--code-bg);
+    background: transparent;
 }
 
 [data-theme="dark"] .list {
