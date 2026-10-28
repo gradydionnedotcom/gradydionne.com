@@ -6,8 +6,8 @@
     --header-height: 60px;
     --footer-height: 60px;
     --radius: 8px;
-    --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
+    --theme: rgb(140, 78, 78);
+    --entry: rgb(192, 65, 65);
     --primary: rgb(30, 30, 30);
     --secondary: rgb(108, 108, 108);
     --tertiary: rgb(214, 214, 214);
@@ -19,12 +19,12 @@
 }
 
 :root[data-theme="dark"] {
-    --theme: rgb(21, 32, 26);
-    --entry: rgb(50, 69, 62);
-    --primary: rgb(209, 205, 187);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(56, 65, 84);
-    --content: rgb(196, 196, 197);
+    --theme: rgb(24, 43, 27);
+    --entry: rgb(50, 75, 56);
+    --primary: rgb(233, 217, 187);
+    --secondary: rgb(233, 217, 187);
+    --tertiary: rgb(233, 217, 187);
+    --content: rgb(233, 217, 187);
     --code-block-bg: rgb(46, 46, 51);
     --code-bg: rgb(55, 56, 62);
     --border: rgb(51, 51, 51);

@@ -45,7 +45,6 @@
   height: auto;
   margin-inline-start: auto;
   flex-shrink: 0;
-  filter: invert(1);
   rotate: 200deg;
 }
 

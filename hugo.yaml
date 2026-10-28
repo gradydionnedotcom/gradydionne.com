@@ -1,6 +1,6 @@
 baseURL: https://gradydionnedotcom.github.io/gradydionne.com/
 locale: en-us
-title: Home
+title: Grady Dionne Dot Com
 theme: PaperMod
 
 menu:
@@ -21,11 +21,11 @@ menu:
 params:
   defaultTheme: dark
   disableThemeToggle: true
-  logo: guitar_drawing.png
+  logo: thisisthetestfilename.png
   hideFooter: false
 
   homeInfoParams:
-    Title: Grady Dionne
+    Title: About Me
     Content: I'm Grady, an audio engineer, musician, and educator currently based in Denver Colorado. I am available for live sound and live recordings, guitar lessons, and audio editing, mixing, and mastering work.
       You can reach out to me with any inquiries below, and find me on social media as well
 
