@@ -22,7 +22,7 @@ params:
   defaultTheme: dark
   disableThemeToggle: true
   logo: guitar_drawing.png
-  hideFooter: true
+  hideFooter: false
 
   homeInfoParams:
     Title: Grady Dionne
@@ -71,3 +71,4 @@ params:
             - src: album_covers/speaking in tongues.jpg
               alt: Talking Heads
               description: Talking Heads - Speaking In Tongues
+
