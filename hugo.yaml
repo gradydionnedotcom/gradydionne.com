@@ -9,10 +9,14 @@ menu:
         name: About
         url: /about/
         weight: 10
-      - identifier: Portfolio
-        name: Portfolio
-        url: /portfolio/
+      - identifier: Recording Portfolio
+        name: Recording Portfolio
+        url: /recording-portfolio/
         weight: 20
+      - identifier: Playing Portfolio
+        name: Playing Portfolio
+        url: /playing-portfolio/
+        weight: 25
       - identifier: Contact
         name: Contact
         url: /contact/

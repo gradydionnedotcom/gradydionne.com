@@ -1,10 +1,10 @@
 ---
-title: "Portfolio"
-url: "/portfolio/"
-summary: "portfiolio"
+title: "Recording Portfolio"
+url: "/recording-portfolio/"
+summary: "Recording Portfiolio"
 ---
 
-##### Here is a compilation of all recording and playing work that I have done
+##### Here is a compilation of all recording work that I have done
 ---
 -----
 ### Studio Recording Work
@@ -79,14 +79,3 @@ Seth Wells, recording and mixing
 
 Bella Kraus, recording and mixing
 {{< youtube vDXu9Bw6iqQ >}}
-
----
-
-### Guitar Playing
-
----
-
-{{< apple-music src="https://embed.music.apple.com/us/playlist/gradys-guitar-playing/pl.u-pMylDXjTG08631" >}}
-
-
-{{< spotify src ="https://open.spotify.com/playlist/2fZQDJSx36v2SmEXwfA63W?si=e717e3e3a49848f5" >}}
