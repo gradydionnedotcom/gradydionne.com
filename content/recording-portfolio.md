@@ -4,7 +4,7 @@ url: "/recording-portfolio/"
 summary: "Recording Portfiolio"
 ---
 
-##### Here is a compilation of all recording work that I have done
+##### Here is a compilation of some recording work that I have done
 ---
 -----
 ### Studio Recording Work
