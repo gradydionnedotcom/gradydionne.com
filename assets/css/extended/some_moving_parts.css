@@ -48,9 +48,31 @@
   rotate: 200deg;
 }
 
+
 @media (max-width: 640px) {
+  .home-info {
+    max-width: 80rem;
+    position: relative;
+  }
+
   .home-info-logo {
-    width:80rem;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: min(80vw, 14rem);
+    height: auto;
+    margin: 0;
+    opacity: 0.18;
+    z-index: 0;
+    pointer-events: none;
+  }
+
+  .home-info .entry-header,
+  .home-info .entry-content,
+  .home-info .entry-footer {
+    position: relative;
+    z-index: 1;
   }
 }
 
