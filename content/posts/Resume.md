@@ -1,6 +1,6 @@
 +++
-draft = false
-title = 'View My Full Resume Here'
+draft = true
+title = 'Full Resume'
 categories = ["Education"]
 hiddenInHomeList = false
 weight = 100
@@ -20,7 +20,7 @@ hideHomeSummary = true
 - ##### University of Denver - BM in Music Recording and Production, Jazz Guitar, Minor In Computer Science Sep 22 - June 26
 - ##### Achievements: Hornbeck Scholar Spring 23’, 24’, 25’, 26’, Fall 23’, Winter 24’ 25’              Overall GPA 3.94
 
-#### PINS Summer Research Grant, Denver, CO / NH, Live Recording Project          Jun 2024 - Sep 2024
+### PINS Summer Research Grant, Denver, CO / NH, Live Recording Project          Jun 2024 - Sep 2024
 -  ##### In collaboration with Michael Shulze, Teaching Professor of Recording and Production at DU, received a research grant from the University of Denver to record local bands in my home community
 -  ##### From June to August, set up all equipment, including audio and video, to record 9 groups of varying genres and mastered all audio and edited all videos included in the project
 
