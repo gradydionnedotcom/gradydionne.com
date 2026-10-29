@@ -13,6 +13,14 @@
   scroll-snap-align: start;
 }
 
+.home-gallery-item figcaption {
+  padding-top: 0.6rem;
+  color: var(--secondary);
+  font-size: 0.875rem;
+  line-height: 1.4;
+  text-align: center;
+}
+
 .home-gallery-item img {
   display: block;
   width: 100%;

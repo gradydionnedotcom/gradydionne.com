@@ -53,7 +53,7 @@ params:
       images:
             - src: album_covers/Clap-Your-Hands-Say-Yeah.jpg
               alt: Clap Your Hands Say Yeah
-              description: Clap Your Hands Say Yeah - Self Title
+              description: "Clap Your Hands Say Yeah - Self Title"
             - src: album_covers/forever howlong.jpg
               alt: Forever Howlong - BC,NR
               description: Forever Howlong - BC,NR
@@ -75,4 +75,7 @@ params:
             - src: album_covers/speaking in tongues.jpg
               alt: Talking Heads
               description: Talking Heads - Speaking In Tongues
+            - src: album_covers/OTC.jpg
+              alt: the Olivia Tremor Control
+              description: The Same Place - The Olivia Tremor Control
 

@@ -34,13 +34,17 @@
     <div class="home-gallery" role="region" aria-label="{{ $section.title }}" tabindex="0">
       {{- range index $section "images" }}
         {{- $image := . }}
+        {{- $caption := or (index $image "caption") (index $image "description") }}
         <figure class="home-gallery-item">
           <img
             src="{{ index $image "src" | relURL }}"
             alt="{{ index $image "alt" }}"
             loading="lazy"
-            title="{{ index $image "description" }}"
+            title="{{ $caption }}"
           >
+          {{- with $caption }}
+            <figcaption>{{ . }}</figcaption>
+          {{- end }}
         </figure>
       {{- end }}
     </div>
